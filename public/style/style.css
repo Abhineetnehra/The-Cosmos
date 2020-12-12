@@ -1,0 +1,227 @@
+body
+{
+  font-family:"Montserrat";
+  text-align:center;
+
+}
+h1,h2,h3,h4,h5,h6{
+  font-family:"Montserrat";
+
+}
+h1{
+  font-size: 3vw;
+}
+
+p{
+  color:#8f8f8f;
+}
+/* heading */
+.big-heading{
+  font-family:"Montserrat";
+  font-size:2.75rem;
+  line-height:1.4;
+  padding-left:1%;
+}
+.section-heading{
+  font-size:3.5rem;
+  line-height:1.5;
+}
+/* container*/
+.container-fluid{
+  padding:1.5% 10.4% 0%;
+}
+/* section */
+.colored-section{
+  background:url("../images/nebula.jpg");
+  background-size: cover;
+  color:#fff;
+}
+.download-button{
+  margin:3% 2% 3% 1%;
+  font-size:1.2rem;
+
+
+}
+
+#title{
+  text-align:left;
+}
+
+/* Navigation Bar*/
+.navbar{
+  padding : 0 0 2rem;
+}
+.navbar-brand{
+  font-family:"ubuntu";
+  font-size:1.8rem;
+  font-weight: bold;
+
+}
+.nav-item{
+  padding:0 5px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family:"Montserrat-light";
+}
+/* title image*/
+.title-image{
+  position:absolute;
+  left:150%;
+  bottom:40%;
+  width:60%;
+}
+/* feature section*/
+.icon:hover{
+  color:#ff4c68;
+}
+
+.fa-facebook-f:hover{
+  color:steelblue;
+}
+.fa-twitter:hover{
+  color:steelblue;
+
+}
+.fa-instagram:hover{
+  color:#ff4c68;
+}
+.fa-youtube:hover{
+  color:red;
+}
+.testimonial-section{
+  background:url("../images/galaxy.jpg");
+  background-size:cover;
+  color:#fff;
+}
+.testimonial-text{
+  font-size:2rem;
+  line-height:1.5;
+  margin-top:5%;
+}
+.testimonial-image{
+  width:10%;
+  border-radius:100%;
+  margin:20px;
+}
+/* pricing */
+#pricing{
+  padding:40px;
+}
+.price-text{
+  font-size:2rem;
+  line-height:1.5;
+  }
+.pricing-column{
+  padding:3% 2%;
+}
+.footer-section{
+  background:black;
+  color:#fff;
+}
+.social-icon
+{
+  margin:20px 10px;
+}
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*explore-text*/
+.explore-heading{
+  font-family:"Montserrat";
+  font-size:2.65rem;
+  line-height:1;
+  padding-left:.5%;
+}
+.milkyway{
+  width:70%;
+}
+.exploring{
+  padding:.5% 5% 1% 5%;
+
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+.milkyimg{
+  width:60%;
+}
+.milkyimage{
+  width:45%;
+}
+
+.milkywaytext{
+  line-height:1.75;
+  color:#41444b;
+text-align: center;
+margin:3% 20% 1% 20%;
+text-align:justify;
+font-size: 2.5vmin;
+/*font-family:"arial";*/
+}
+.factbox{
+  text-align:justify;
+  text-decoration: none;
+}
+.box{
+  width:60%;
+
+}
+.check{
+margin:3% 20% 1% 20%;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+.suninfo{
+  color:black;
+}
+.para{
+  text-align: justify;
+}
+/* table data --------------------------------------------------------------------------------------------------------------------------------------------*/
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+  margin-left: 20%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+/* cosmic news--------------------------------------------------------------------------------------------------------------------*/
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+.newsimg{
+  width:90%;
+  padding-left:10%;
+  padding-top: 10%;
+}
+.date{
+  margin-left:40px;
+}
+.newsheading{
+   font-size: 1.9vw;
+}

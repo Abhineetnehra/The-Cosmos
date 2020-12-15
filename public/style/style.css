@@ -141,7 +141,7 @@ p{
 }
 /*--------------------------------------------------------------------------------------------------------------------------------------*/
 .milkyimg{
-  width:60%;
+  width:75%;
 }
 .milkyimage{
   width:45%;
@@ -151,7 +151,7 @@ p{
   line-height:1.75;
   color:#41444b;
 text-align: center;
-margin:3% 20% 1% 20%;
+margin:3% 5% 1% 5%;
 text-align:justify;
 font-size: 2.5vmin;
 /*font-family:"arial";*/

@@ -248,7 +248,7 @@ app.get("/libra",function(req,res){
   res.render("libra");
 });
 app.get("/Scorpio",function(req,res){
-  res.render("Scorpio");
+  res.render("scorpio");
 });
 app.get("/Sagittarius",function(req,res){
   res.render("sagittarius");

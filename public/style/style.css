@@ -9,7 +9,7 @@ h1,h2,h3,h4,h5,h6{
 
 }
 h1{
-  font-size: 3vw;
+  font-size: 4.5vw;
 }
 
 p{
@@ -142,6 +142,7 @@ p{
 /*--------------------------------------------------------------------------------------------------------------------------------------*/
 .milkyimg{
   width:75%;
+  margin:1px 0pc 10px 0px;
 }
 .milkyimage{
   width:45%;
@@ -153,8 +154,9 @@ p{
 text-align: center;
 margin:3% 5% 1% 5%;
 text-align:justify;
-font-size: 2.5vmin;
-/*font-family:"arial";*/
+font-size: 3vmin;
+font-family:"verdana";
+font-weight: 500;
 }
 .factbox{
   text-align:justify;

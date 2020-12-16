@@ -227,3 +227,8 @@ margin:3% 20% 1% 20%;
 .newsheading{
    font-size: 4.5vw;
 }
+.footer-section{
+  background:url("../images/nebula.jpg");
+  background-size: cover;
+  color:#fff;
+}

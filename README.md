@@ -4,7 +4,7 @@ All Cosmos lovers are invited to have a look at our lovely website.
 
 website -- https://thecosmos.in , www.thecosmos.in
 
-This is a Node Js and React application.
+This is a Node Js and MongoDb application.
 
 
 
